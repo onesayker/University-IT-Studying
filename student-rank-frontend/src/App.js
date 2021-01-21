@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.svg';
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <p>Hello World</p>
+          <p>Studying english</p>
           Learn React
         </a>
       </header>
@@ -23,4 +24,10 @@ function App() {
   );
 }
 
+function menu(){
+  return (
+
+
+  );
+}
 export default App;
